@@ -1,6 +1,6 @@
 # NeuroGenesis: The Self-Evolving Neural Fabric
 
-Welcome to **NeuroGenesis**, an avant-garde AI platform that redefines how intelligent systems learn, adapt, and evolve. Inspired by the remarkable architecture of the human brain, NeuroGenesis implements a self-organizing, adaptive neural network that continually enhances itself through dynamic connectivity, spike-timing-dependent plasticity, and continual learning methodologies.
+Welcome to **NeuroGenesis**, an AI platform that redefines how intelligent systems learn, adapt, and evolve. Inspired by the remarkable architecture of the human brain, NeuroGenesis implements a self-organizing, adaptive neural network that continually enhances itself through dynamic connectivity, spike-timing-dependent plasticity, and continual learning methodologies.
 
 ## Overview
 
